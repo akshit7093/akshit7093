@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-sharma-475a94271/)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Akshit_7093)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshit_7094/) 
-[![Personal Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-personal-website.com)
+
 
 ## 💻 Tech Stack:
 <p align="center">
