@@ -1,7 +1,8 @@
 <!-- Profile Header with Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&pause=500&color=4285F4&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Akshit+Sharma!+%7C+Data+Science+%26+ML+Enthusiast;Empowering+Machines+with+Intelligence;Crafting+Smart+Solutions+with+Data+%26+AI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&pause=500&color=4285F4&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Akshit+Sharma!;Data+Science+%26+ML+Enthusiast;Empowering+Machines+with+Intelligence;Crafting+Smart+Solutions+with+Data+%26+AI" alt="Typing SVG">
 </p>
+
 
 
 
