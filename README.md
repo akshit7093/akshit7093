@@ -94,11 +94,7 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD">
 </p>
 
-<!-- Footer Section with Animation -->
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
-</p>
+
 
 <!-- Google-Inspired Footer -->
 <p align="center">
