@@ -1,56 +1,84 @@
-<!-- Profile Header -->
+<!-- Profile Header with Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=27F76D&center=true&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+Akshit+Sharma!;AI+%7C+Data+Science+Enthusiast;Full-Stack+Web+Developer;Machine+Learning+Practitioner" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&pause=500&color=4285F4&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Akshit+Sharma!+%7C+Data+Science+%26+ML+Enthusiast;Empowering+Machines+with+Intelligence;Crafting+Smart+Solutions+with+Data+%26+AI" alt="Typing SVG">
+</p>
+
+<!-- Animated Profile Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="AI Banner" width="100%">
 </p>
 
 # 💫 About Me:
-- **Undergrad in Artificial Intelligence and Data Science**
-- **Full-Stack Web Developer**
-- **Currently Learning:** Machine Learning
+- **Undergraduate in Artificial Intelligence and Data Science**
+- **Machine Learning and Data Science Enthusiast**
+- **Passionate about AI-powered solutions**
+- **Currently exploring advanced ML algorithms and deep learning**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayan_gairola_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayan_Gairola) 
+## 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) 
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter-handle) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayan_gairola_) 
+[![Personal Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-personal-website.com)
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/SQLAlchemy-%23d33a3a.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white" alt="SQLAlchemy">
+</p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AyanGairola&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AyanGairola&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanGairola&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyanGairola&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanGairola&theme=algolia&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanGairola&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyanGairola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyanGairola&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects & Portfolio:
+<p align="center">
+  <img src="https://img.shields.io/badge/Movie%20Database-%23FF6F00.svg?style=for-the-badge&logo=google-play&logoColor=white" alt="Movie Database">
+  <img src="https://img.shields.io/badge/IoT%20%26%20ML%20Drone-%230099CC.svg?style=for-the-badge&logo=google-play&logoColor=white" alt="IoT & ML Drone">
+  <img src="https://img.shields.io/badge/License%20Plate%20Recognition-%23FF4500.svg?style=for-the-badge&logo=google-play&logoColor=white" alt="License Plate Recognition">
+</p>
 
-<!-- Portfolio Section -->
-## 🛠️ Projects & Portfolio
-
-### 📦 Featured Projects
-- **[Movie Database Web App](https://github.com/your-username/movie-db-app):** A Netflix-style movie database web application built with Flask and SQLAlchemy.
-- **[IoT & ML Drone Mapping Project](https://github.com/your-username/drone-mapping):** A drone-based IoT and Machine Learning project for military room mapping.
-- **[License Plate Recognition](https://github.com/your-username/license-plate-recognition):** An ML model to detect and recognize license plates from vehicle images.
-
-### 📜 Recent Blog Posts
+## 📝 Recent Blog Posts:
 - **[Understanding GANs: A Deep Dive](https://your-blog-link.com):** Explore the world of Generative Adversarial Networks.
 - **[Python in Machine Learning](https://your-blog-link.com):** A comprehensive guide to Python's role in ML.
 
-<!-- Contact & Social Links -->
-## 📫 Let's Connect
-
-- **LinkedIn:** [Akshit Sharma](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter:** [@AkshitSharma](https://twitter.com/your-twitter-handle)
-- **Personal Website:** [akshitsharma.dev](https://your-personal-website.com)
-- **Email:** akshit.sharma@example.com
-
+## 🎨 Design Tools:
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/twitter/follow/your-twitter-handle?label=Follow&style=social" alt="Twitter Follow">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD">
 </p>
 
-<!-- Footer Section -->
+<!-- Footer Section with Animation -->
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
+</p>
+
+<!-- Google-Inspired Footer -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/512px-Google_%22G%22_Logo.svg.png" alt="Google Logo" width="30">
+  <span style="color: #4285F4;">Google</span><span style="color: #EA4335;">Inspiration</span><span style="color: #FBBC05;">Dark</span><span style="color: #34A853;">Theme</span>
 </p>
