@@ -1,100 +1,129 @@
 <!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&pause=500&color=4285F4&center=true&vCenter=true&width=1000&height=60&lines=Hi%2C+I'm+Akshit+Sharma!;Data+Science+%26+ML+Enthusiast;Empowering+Machines+with+Intelligence" alt="Typing SVG">
-</p>
-
-# 💫 About Me 
-
-I’m a passionate **AI & Data Science undergraduate** building intelligent systems powered by Machine Learning and Generative AI. My work focuses on NLP, Computer Vision, Cloud Computing, and deploying ML models at scale.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&pause=500&color=FFFFFF¢er=true&vCenter=true&width=1000&height=60&lines=Hi%2C+I'm+Ketan+Sharma;A+Full+Stack+Web+Developer+%26+AIML+Enthusiast;Trying+to+transform+solutions+and+new+ideas+into+code" alt="Typing SVG">
+</div>
 
 ---
 
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-sharma-475a94271/)  
-[![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Akshit_7093)
-
----
-
-## 💻 Skills 
-
-### Languages:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-007494?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### ML & AI: 
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-6C3483?style=for-the-badge&logo=npl&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
-
-### Web & Cloud: 
-<p align="left">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-### Tools & Platforms: 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## 📂 Featured Projects 
-
-### 🎬 Movie Genre Classifier
-Built using scikit-learn and Flask. Achieved 92% accuracy on a dataset of 10,000 movies.  
-🔗 [GitHub Repo](https://github.com/akshit7093/CODSOFT) 
-
-### 💳 Credit Card Fraud Detection
-Reduced false positives by 15% using XGBoost and feature engineering on 1 million transactions.  
-🔗 [GitHub Repo](https://github.com/akshit7093/CODSOFT) 
-
-### 🗣️ SMS Spam Detection
-NLP-based model with 95% accuracy deployed using Flask.  
-🔗 [GitHub Repo](https://github.com/akshit7093) 
-
-### ☁️ OpenStack Cloud Manager with Gemini
-Natural language interface to manage OpenStack resources using Google Gemini.  
-🔗 [GitHub Repo](https://github.com/akshit7093/VM_manager_AgenticAi) 
-
-### 🤖 Universal Website Chatbot
-Llama 3.1 based chatbot with voice assistant via Google TTS.  
-🔗 [GitHub Repo](https://github.com/akshit7093/Chatbot-for-websites) 
-
-### 🧏 SignEase - Real-Time Sign Language Translator
-Video calling app with TensorFlow + WebRTC achieving >89% accuracy.  
-🔗 [GitHub Repo](https://github.com/akshit7093/Sign-language-translator.git) 
-
----
-
-## 📊 GitHub Stats
+### <p align="center">A final year student at VIT Bhopal, trying to transform solutions and new ideas into code.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshit7093&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshit7093&theme=algolia&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit7093&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Show%20My%20Work-FFFFFF?style=for-the-badge&logo=&logoColor=black" alt="Show My Work">
+  </a>
 </p>
 
-## 🏆 GitHub Trophies 
+---
+
+## **Tech Stack**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshit7093&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/AIML-FFC300?style=for-the-badge&logo=&logoColor=black" alt="AIML"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+
+---
+
+## **My Educational Background**
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Class X</h3>
+        <p>Completed my matriculation from St. Andrews Scots Senior Secondary School, Delhi and scored 90% in CBSE matriculation exam.</p>
+      </td>
+      <td align="center">
+        <h3>Class XII</h3>
+        <p>Details about your Class XII education.</p>
+      </td>
+      <td align="center">
+        <h3>B.Tech, CSE</h3>
+        <p>Currently pursuing my under graduation from VIT Bhopal University, holding 9.02 CGPA in core subjects.</p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## **A Small Selection of Recent Projects**
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>CISCO Community VIT BHOPAL</h4>
+        <p>Explore the official website of CISCO Community VIT Bhopal, where they post regular updates of their events.</p>
+        <a href="your-repo-link-here">Check out code ➤</a>
+      </td>
+      <td align="center">
+        <h4>UnityGen - A LLM ChatBot for Transgender and...</h4>
+        <p>United Gen is an LLM AI used to spread awareness, information and solve queries related Transgender and...</p>
+        <a href="your-repo-link-here">Check out code ➤</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>ToastMe - A generative text style transfer AI</h4>
+        <p>Toast Me is an AI which is able to convert the Hate Speech on Social Media to Positive Speech...</p>
+        <a href="your-repo-link-here">Check out code ➤</a>
+      </td>
+      <td align="center">
+        <h4>Leaf Disease Image Segmentation &...</h4>
+        <p>The project is based on segmenting the leaf-disease affected areas. We have used colour based image...</p>
+        <a href="your-repo-link-here">Check out code ➤</a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## **Check Out My Publications**
+
+<p align="center">
+  Published in 2024 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS). Efficient and accurate identification of plant leaf diseases is crucial for modern agriculture, ensuring optimal crop yield and quality.
+</p>
+<p align="center">
+  <strong>Computer Vision Based Smart Leaf Disease Detection System</strong><br>
+  Ketan Sharma, Jayanthi J, Arun Kumar, Sanat Jain, Garima Jain, Harshlata Vishwakarma
+</p>
+<p align="center">
+  <a href="your-publication-link-here">Click Here to Visit</a>
+</p>
+
+---
+
+## **Have a Look at My Achievements**
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Techgium</strong><br>L&T Technologies Techgium, successfully went into semi-finals out of 500 teams...</td>
+      <td align="center"><strong>TCS CodeVita 2024</strong><br>Cleared Round 1 of TCS CodeVita 2024 with worldwide rank of 2971...</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>CISCO Community Code-a-thon</strong><br>Successfully managed CISCO Community Code-a-thon (Hackathon to promote CISCO products)...</td>
+      <td align="center"><strong>Technical Lead @ CISCO Community</strong><br>Technical Lead at CISCO Community VIT Bhopal. Responsible for all technical and development...</td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<div align="center">
+  <h2>Ready to take our collaboration to the next level?</h2>
+  <p>Reach out to me today and lets discuss how I can help you.</p>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Let's%20get%20in%20touch-FFFFFF?style=for-the-badge&logo=maildotru&logoColor=black" alt="Let's get in touch">
+  </a>
+</div>
+
+<p align="center">
+  <small>Copyright © 2024 Ketan Sharma</small>
 </p>
